@@ -85,7 +85,7 @@ Para realizar este ejercicio se realizaron los siguientes pasos:
    </ol>
 </li>
 </ol>
-##Bibliografia
+## Proceso de Creación 
 César Arango Web. (2022, 24 de abril). #1-7 Curso de Nodejs: Rest Api con express y Mysql, | CRUD | Autenticación | Aplicación Completa [Videos del 1 al 7]. YouTube. [https://www.youtube.com/watch?v=F5oOq-FWUl4](https://www.youtube.com/watch?v=F5oOq-FWUl4)
 
 Bluuweb. (24 de Julio del 2023). <i>Curso completo de NEST JS: API REST con MySQL, TypeORM, TypeScript.</i> [https://www.youtube.com/watch?v=RWUmlsdZ1e4](https://www.youtube.com/watch?v=RWUmlsdZ1e4).
