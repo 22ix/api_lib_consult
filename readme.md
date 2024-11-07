@@ -19,7 +19,6 @@ Para realizar este ejercicio se realizaron los siguientes pasos:
    <ol type="1">
    <li>Crear base de datos 'biblioteca'</li>
    <li>Configurar credenciales en database.config.ts</li>
-   <li>Establecer conexión con pool de MySQL</li>
    </ol>
 </li>
 <li>Diseñar estructura del proyecto:
@@ -64,7 +63,7 @@ Para realizar este ejercicio se realizaron los siguientes pasos:
 <li>Probar CRUD básico:
    <ol type="1">
    <li>Crear registros</li>
-   <li>Leer registros (individuales y listados)</li>
+   <li>Leer registros</li>
    <li>Actualizar registros</li>
    <li>Eliminar registros</li>
    </ol>
@@ -73,22 +72,16 @@ Para realizar este ejercicio se realizaron los siguientes pasos:
    <ol type="1">
    <li>Filtrado por categoría</li>
    <li>Paginación</li>
-   <li>Manejo flexible de fechas</li>
-   <li>Validaciones cruzadas entre entidades</li>
+   <li>Corrección de Páginación (hubo un problema en el que no estaba arrojando correctamente los libros)</li>
+   <li>Validaciones cruzadas entre entidades (enfasís en libro, que utiliza referencias de 2 entidades diferentes)</li>
    </ol>
 </li>
 <li>Realizar pruebas completas:
    <ol type="1">
    <li>Verificar todas las validaciones</li>
    <li>Probar casos de error</li>
-   <li>Verificar integridad de datos</li>
-   </ol>
-</li>
-<li>Subir a GitHub:
-   <ol type="1">
-   <li>Inicializar repositorio</li>
-   <li>Crear .gitignore</li>
-   <li>Documentar instalación y uso</li>
+   <li>Probar todas las modificaciones posibles a traves de la interfaz de swagger</li>
+   <li>Probar modificaciones solo con el backend</li>
    </ol>
 </li>
 </ol>
