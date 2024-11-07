@@ -81,7 +81,7 @@ Para realizar este ejercicio se realizaron los siguientes pasos:
    <li>Verificar todas las validaciones</li>
    <li>Probar casos de error</li>
    <li>Probar todas las modificaciones posibles a traves de la interfaz de swagger</li>
-   <li>Probar modificaciones solo con el backend</li>
+   <li>Probar modificaciones solo con el backend (especificamente, a traves de la base de datos directamente)</li>
    </ol>
 </li>
 </ol>
